@@ -1,0 +1,29 @@
+{
+  "name": "trucker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prabhakar-iOS/Trucker.git"
+  },
+  "keywords": [
+    "truck"
+  ],
+  "author": "Prabhakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prabhakar-iOS/Trucker/issues"
+  },
+  "homepage": "https://github.com/Prabhakar-iOS/Trucker#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.15"
+  }
+}
